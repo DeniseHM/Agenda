@@ -3,12 +3,12 @@
     padding: 16px, 12px;
     color:  #424949;
 }
-/*
+
 @media (max-width: 640px) {
     .recent {
         width: 100%;
     }
-}*/
+}
 
 .recent ul {
     margin: 0;
